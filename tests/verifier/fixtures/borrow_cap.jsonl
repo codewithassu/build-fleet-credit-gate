@@ -1,0 +1,5 @@
+{"event_id":"r1","action":"reserve","team":"gamma","slot_id":"B1","ts":100,"start_ms":100,"end_ms":800,"grant":10}
+{"event_id":"s1","action":"spend","team":"gamma","slot_id":"B1","ts":150,"cost":8}
+{"event_id":"s2","action":"spend","team":"gamma","slot_id":"B1","ts":200,"cost":1}
+{"event_id":"s3","action":"spend","team":"gamma","slot_id":"B1","ts":250,"cost":1}
+{"event_id":"s4","action":"spend","team":"gamma","slot_id":"B1","ts":300,"cost":1}

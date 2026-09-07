@@ -1,0 +1,6 @@
+default_grant = 3
+borrow_cap = 99
+
+[tenants.beta]
+grant = 1
+tier = "bronze"

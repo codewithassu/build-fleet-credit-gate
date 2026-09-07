@@ -1,0 +1,4 @@
+{"event_id":"r1","action":"reserve","team":"beta","slot_id":"Q1","ts":100,"start_ms":100,"end_ms":500,"grant":30}
+{"event_id":"s1","action":"spend","team":"beta","slot_id":"Q1","ts":150,"cost":29}
+{"event_id":"w1","action":"spend","team":"beta","slot_id":"Q1","ts":200,"cost":2}
+{"event_id":"t1","action":"tick","team":"beta","ts":501}

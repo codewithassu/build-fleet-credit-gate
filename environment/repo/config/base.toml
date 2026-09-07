@@ -1,0 +1,14 @@
+default_grant = 10
+borrow_cap = 0
+
+[tenants.alpha]
+grant = 10
+tier = "bronze"
+
+[tenants.beta]
+grant = 12
+tier = "silver"
+
+[tenants.gamma]
+grant = 8
+tier = "gold"

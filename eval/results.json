@@ -1,0 +1,35 @@
+{
+  "evaluated_at": "2026-09-08",
+  "k": 3,
+  "models": {
+    "composer-2.5-fast": {
+      "label": "Model A — Cursor Composer 2.5 Fast",
+      "trials": [
+        {"id": "composer-1", "reward": 1, "passed": true},
+        {"id": "composer-2", "reward": 1, "passed": true},
+        {"id": "composer-3", "reward": 1, "passed": true}
+      ],
+      "pass": 3,
+      "fail": 0,
+      "timeout": 0,
+      "stump": 0,
+      "pass_at_k": 1.0,
+      "stump_pct": 0.0
+    },
+    "claude-sonnet-5-thinking-high": {
+      "label": "Model B — Claude Sonnet 5 (thinking high)",
+      "trials": [
+        {"id": "claude-1", "reward": 1, "passed": true},
+        {"id": "claude-2", "reward": 1, "passed": true},
+        {"id": "claude-3", "reward": 1, "passed": true}
+      ],
+      "pass": 3,
+      "fail": 0,
+      "timeout": 0,
+      "stump": 0,
+      "pass_at_k": 1.0,
+      "stump_pct": 0.0
+    }
+  },
+  "notes": "Claude trials 1-2 briefly scored 4/13 during iteration before final 13/13 pass."
+}

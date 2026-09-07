@@ -1,0 +1,3 @@
+{"event_id":"r1","action":"reserve","team":"beta","slot_id":"H1","ts":150,"start_ms":150,"end_ms":250,"grant":10}
+{"event_id":"s1","action":"spend","team":"beta","slot_id":"H1","ts":200,"cost":4}
+{"event_id":"s2","action":"spend","team":"beta","slot_id":"H1","ts":250,"cost":1}

@@ -1,0 +1,7 @@
+{"event_id":"t1","action":"reserve","team":"alpha","slot_id":"LA","ts":1,"start_ms":1,"end_ms":50,"grant":20}
+{"event_id":"t2","action":"reserve","team":"gamma","slot_id":"LG","ts":1,"start_ms":1,"end_ms":50,"grant":20}
+{"event_id":"t3","action":"spend","team":"alpha","slot_id":"LA","ts":10,"cost":10}
+{"event_id":"t4","action":"spend","team":"gamma","slot_id":"LG","ts":10,"cost":10}
+{"event_id":"t5","action":"spend","team":"gamma","slot_id":"LG","ts":20,"cost":16}
+{"event_id":"t6","action":"spend","team":"alpha","slot_id":"LA","ts":20,"cost":16}
+{"event_id":"t7","action":"tick","team":"alpha","ts":51}

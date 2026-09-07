@@ -1,0 +1,21 @@
+name: build-fleet-credit-gate
+title: Build Fleet Credit Gate Repair
+difficulty: hard
+category: debugging
+scope: repository-level
+estimated_time_hours: 2.5
+tools:
+  - python3
+  - docker
+  - pytest
+skills_measured:
+  - layered_configuration_debugging
+  - multi_file_state_machine_repair
+  - behavioral_verification
+  - entangled_bug_isolation
+artifacts:
+  - /app/src/gate.py
+  - /app/src/fleet_gate/
+description: >
+  Repair entangled bugs in a CI build-slot credit gate across config cascade,
+  slot windows, gold borrow ceilings, settlement order, and FIFO queue drain.
